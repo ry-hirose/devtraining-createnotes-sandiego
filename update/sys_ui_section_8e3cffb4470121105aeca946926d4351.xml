@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8e3cffb4470121105aeca946926d4351" sys_domain="global" table="x_snc_createnotes_sample_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-14 07:25:35</sys_created_on>
+            <sys_id>023cffb4470121105aeca946926d4356</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_sample_table" sys_domain="global" view="Default view">8e3cffb4470121105aeca946926d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-14 07:25:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-14 07:26:26</sys_created_on>
+            <sys_id>7e6cb7f4470121105aeca946926d43e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_sample_table" sys_domain="global" view="Default view">8e3cffb4470121105aeca946926d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-14 07:26:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document_id</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-14 09:17:55</sys_created_on>
+            <sys_id>bfe55ccd474121105aeca946926d43dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_sample_table" sys_domain="global" view="Default view">8e3cffb4470121105aeca946926d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-14 09:17:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_createnotes_sample_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-14 07:25:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e3cffb4470121105aeca946926d4351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_createnotes_sample_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+            <sys_update_name>sys_ui_section_8e3cffb4470121105aeca946926d4351</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-14 07:25:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

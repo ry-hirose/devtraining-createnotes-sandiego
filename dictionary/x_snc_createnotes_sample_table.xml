@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" label="Sample Table" max_length="40" name="x_snc_createnotes_sample_table" sizeclass="1" type="collection">
+        <element label="Document ID" max_length="32" name="document_id" type="document_id"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="string"/>
+        <index name="index">
+            <element name="document_id"/>
+        </index>
+    </element>
+</database>
